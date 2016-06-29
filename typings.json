@@ -2,6 +2,7 @@
   "name": "ui-harness",
   "dependencies": {},
   "globalDependencies": {
+    "radium": "registry:dt/radium#0.17.1+20160414124459",
     "react": "registry:dt/react#0.14.0+20160602151522"
   }
 }
